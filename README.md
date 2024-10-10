@@ -1,11 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21391
-Fork on GitHub
-6711
-
-
 
 
 ![logo](https://github.com/cool-ashishkumar/cool-ashishkumar/blob/main/ai-generated-8540915_1280.jpg)
