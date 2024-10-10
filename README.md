@@ -1,6 +1,7 @@
 
 
-![logo](https://github.com/cool-ashishkumar/cool-ashishkumar/blob/main/ai-generated-8540915_1280.jpg)
+![logo](https://github.com/cool-ashishkumar/cool-ashishkumar/blob/main/data.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate for Data Scientist Engineer</h3>
 
