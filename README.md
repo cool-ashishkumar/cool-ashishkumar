@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cool-ashishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="cool-ashishkumar" /> </p>
 
-- 🔭 I’m currently Studying Computer Science [Language Translator](https://github.com/cool-ashishkumar/Language-Translator/blob/main/main.py)
+- 🔭 I’m currently Studying Computer Science at [Millennium Institute of Technology and Science Bhopal](https://www.millenniumbhopal.com/)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
