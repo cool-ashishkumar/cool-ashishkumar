@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate for Data Scientist Engineer</h3>
+<h3 align="center">A passionate for Artficial Intelligence and Data Scientist Engineer</h3>
 <h3 align="center">I love learning or creating to new things </h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Studying Computer Science at [Millennium Institute of Technology and Science Bhopal](https://www.millenniumbhopal.com/)
 
-- 🌱 I’m currently learning ** Data Science, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning ** Artificial Intelligence and Data Science, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cool-ashishkumar](https://github.com/cool-ashishkumar)
 
