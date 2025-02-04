@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cool-ashishkumar](https://github.com/cool-ashishkumar)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ashish-kumar-329202264/](https://www.linkedin.com/in/ashish-kumar-329202264/)
-
 - 📫 How to reach me Email **ashishpatwa688@gmail.com**
 
 - ⚡ Truth fact **Always Smiling**
